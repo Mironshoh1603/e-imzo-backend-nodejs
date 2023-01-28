@@ -18,6 +18,7 @@
     "mongoose": "^6.9.0",
     "node-storage": "^0.0.9",
     "nodemon": "^2.0.20",
-    "redis": "^4.6.2"
+    "redis": "^4.6.2",
+    "soap": "^1.0.0"
   }
 }
